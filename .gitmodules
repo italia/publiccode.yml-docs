@@ -1,0 +1,3 @@
+[submodule "publiccode.yml"]
+	path = publiccode.yml
+	url = https://github.com/publiccodeyml/publiccode.yml.git
